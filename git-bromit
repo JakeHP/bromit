@@ -25,6 +25,7 @@ bro[17]='implementd'
 bro[18]='commit it and quit it'
 bro[19]='fixed some features'
 bro[20]='bro, do you even git?'
+bro[21]='cool story, scrumbro'
 
 arraySize=${#bro[@]}
 rand=$(($RANDOM % $arraySize))
