@@ -11,12 +11,8 @@ Windows
     C:\path\to\Git\libexec\git-core
 
 Linux
-    
-    /usr/lib/git-core
 
 Mac
-    
-    /no/idea/brews
 
 use
 ======

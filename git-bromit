@@ -1,0 +1,33 @@
+#!/bin/bash
+#
+# git-bromit
+#
+# Jake Prather
+
+bro[0]='#yoco'
+bro[1]='code has been slingd'
+bro[2]='pushed; chill and lets collab'
+bro[3]='someone do me a solid and clean this up'
+bro[4]='ultimate frisbee anyone?'
+bro[5]='Sick city central right here'
+bro[6]='dave matthews is in town, committing and heading out'
+bro[7]='diff and learn scrubs'
+bro[8]='end of hack sesh'
+bro[9]='added some broutines'
+bro[10]='we should have used ruby'
+bro[11]='@#SXSW, live push'
+bro[12]='crushd out some functions'
+bro[13]='test it in production'
+bro[14]='fixing your grunge, bro'
+bro[15]='#BOMBSAWAY'
+bro[16]='dont pull just yet this is broke'
+bro[17]='implementd'
+bro[18]='commit it and quit it'
+bro[19]='fixed some features'
+bro[20]='bro, do you even git?'
+
+arraySize=${#bro[@]}
+rand=$(($RANDOM % $arraySize))
+randBromit=${bro[${rand}]}
+git commit -m "$randBromit"
+echo $randBromit
