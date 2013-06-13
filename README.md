@@ -3,11 +3,12 @@ bromit
 
 a git extension that slings out commit messages for you, broceptor.
 
-install
+install / save to
 ======
 
 Windows
-C:\Program Files\Git\libexec\git-core
+
+    C:\path\to\Git\libexec\git-core
 
 Linux
 
@@ -16,4 +17,4 @@ Mac
 use
 ======
 
-git bromit
+    git bromit
