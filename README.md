@@ -1,7 +1,7 @@
 bromit
 ======
 
-a git extension that slings out commit messages for you, broceptor.
+a serious git extension that slings out commit messages for you, broceptor.
 
 install / save to
 ======
