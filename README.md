@@ -20,5 +20,6 @@ Mac
 
 use
 ======
+when you are ready to commit:
 
     git bromit
