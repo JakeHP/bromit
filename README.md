@@ -12,7 +12,11 @@ Windows
 
 Linux
 
+    /usr/lib/git-core
+
 Mac
+
+    /no/idea/bout/mac
 
 use
 ======
