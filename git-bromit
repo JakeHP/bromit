@@ -1,8 +1,8 @@
 #!/bin/bash
 #
-# git-bromit
-#
-# Jake Prather
+# app name: git-bromit
+# description: http://i.imgur.com/pVNPOtA.png
+# auth: Jake Prather
 
 bro[0]='#yoco'
 bro[1]='code has been slingd'
@@ -26,6 +26,9 @@ bro[18]='commit it and quit it'
 bro[19]='fixed some features'
 bro[20]='bro, do you even git?'
 bro[21]='cool story, scrumbro'
+bro[22]='i commit to github, not girls'
+bro[23]='pumping out code and iron'
+bro[24]='sudo Can I buy you a drink?'
 
 arraySize=${#bro[@]}
 rand=$(($RANDOM % $arraySize))
