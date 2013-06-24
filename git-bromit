@@ -31,6 +31,7 @@ bro[23]='pumping iron and code'
 bro[24]='sudo apt-get remove yourcode'
 bro[25]='ror4life'
 bro[26]='flippin bits'
+bro[27]='refactoring to objective-c'
 
 arraySize=${#bro[@]}
 rand=$(($RANDOM % $arraySize))
