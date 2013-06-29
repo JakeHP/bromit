@@ -32,6 +32,7 @@ bro[24]='sudo apt-get remove yourcode'
 bro[25]='ror4life'
 bro[26]='flippin bits'
 bro[27]='refactoring to objective-c'
+bro[28]='CI -ignore -m perfect code'
 
 arraySize=${#bro[@]}
 rand=$(($RANDOM % $arraySize))
