@@ -1,8 +1,7 @@
 #!/bin/bash
-#
-# app name: git-bromit
-# description: http://i.imgur.com/pVNPOtA.png
-# auth: Jake Prather
+# src: https://github.com/Jakehp/bromit
+# cmd: git-bromit
+# desc: http://i.imgur.com/pVNPOtA.png
 
 bro[0]='#yoco'
 bro[1]='code has been slingd'
