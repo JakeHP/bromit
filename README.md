@@ -16,7 +16,10 @@ Linux
 
 Mac
 
-    /no/idea/bout/mac
+    $ git --exec path
+    Then drop git-bromit into that directory.
+    e.g.
+    $ /Applications/Xcode.app/Contents/Developer/usr/libexec/git-core/
 
 use
 ======
