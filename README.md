@@ -16,7 +16,7 @@ Linux
 
 Mac
 
-    $ git --exec path
+    $ git --exec-path
     Then drop git-bromit into that directory.
     e.g.
     $ /Applications/Xcode.app/Contents/Developer/usr/libexec/git-core/
