@@ -33,6 +33,7 @@ bro[26]='refactoring to objective-c'
 bro[27]='CI -ignore -m perfect'
 bro[28]='brosigned some new classes'
 bro[29]='switching to ruby; java has no ecosystem'
+bro[30]='minor - added a space'
 
 arraySize=${#bro[@]}
 rand=$(($RANDOM % $arraySize))
