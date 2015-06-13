@@ -1,6 +1,6 @@
 bromit
 ======
-
+![Bro](http://i.imgur.com/pVNPOtA.png)  
 a serious git extension that slings out commit messages for you, broceptor.
 
 install / save to
